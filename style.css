@@ -1,11 +1,11 @@
 
 .cabecalho {
     background-color: #cfa8f0;
-    color: rgb(20, 20, 20);
+    color: rgb(19, 19, 19);
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 26px 0;
+    padding: 24px 0;
 }
 
 .cabecalho{
